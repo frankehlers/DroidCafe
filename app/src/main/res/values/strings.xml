@@ -12,4 +12,12 @@
     <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
     <string name="froyo_order_message">You ordered a FroYo.</string>
     <string name="your_order_label">Your order</string>
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="name_label">Name</string>
+    <string name="enter_address_hint">Enter your address</string>
+    <string name="enter_phone_hint">Enter your phone number</string>
+    <string name="enter_notes_hint">Enter your notes</string>
+    <string name="notes_label">Notes</string>
+    <string name="phone_label">Phone</string>
+    <string name="adress_label">Adress</string>
 </resources>
