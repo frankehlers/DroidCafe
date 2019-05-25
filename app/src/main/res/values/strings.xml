@@ -19,5 +19,8 @@
     <string name="enter_notes_hint">Enter your notes</string>
     <string name="notes_label">Notes</string>
     <string name="phone_label">Phone</string>
-    <string name="adress_label">Adress</string>
+    <string name="adress_label">Address</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
 </resources>
